@@ -6,3 +6,4 @@ Firmware Loader for Qualcomm Gobi USB Chipsets.
 	- clone from http://www.codon.org.uk/~mjg59/gobi_loader/download/gobi_loader-0.7.tar.gz
 	- fix CDMA firmware download failed issue
 	- add openwrt big-endian platform support
+    - add support for FreeBSD (mostly done)
