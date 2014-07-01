@@ -1,7 +1,7 @@
 VERSION = 0.7
 
 gobi_loader: gobi_loader.c
-	gcc -Wall gobi_loader.c -o gobi_loader
+	cc -Wall gobi_loader.c -o gobi_loader
 
 all: gobi_loader
 
